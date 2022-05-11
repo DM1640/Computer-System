@@ -1,2 +1,2 @@
 # Computer-System
-COMP SCI 2000 - the University Of Adelaide
+COMP SCI 2000
